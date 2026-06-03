@@ -11,7 +11,7 @@ Since last release
 * Added expectation of Cost in transactions table (#206 )
 
 **Changed:**
-
+* Install and Test instructions in README for correctness (#213)
 * Rely on `python3` in environment instead of `python` (#196)
 * Pinned ``numpy<2.0.0`` in ``pyproject.toml`` (#198)
 * Unpinned ``numpy`` in ``pyproject.toml`` (#203)
